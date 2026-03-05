@@ -1,0 +1,18 @@
+# arquivos compilados 
+*.out
+*.o
+*.exe
+
+# binários
+*.bin
+
+# diretório de build
+/build
+
+# arquivos temporários
+*.swp
+*~
+
+# arquivos de sistema
+.DS_Store
+
