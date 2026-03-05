@@ -21,6 +21,4 @@ Executar:
 
 - gcc 
 
---- 
-
-Feito por Lorenna Mirely de Sousa Silva :D 
+> Feito por Lorenna Mirely de Sousa Silva :D 
