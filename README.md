@@ -4,8 +4,10 @@ Repositório contendo exercícios resolvidos na linguagem C para a disciplina Li
 ## Estrutura do Repositório
 
 O repositório apresenta dois diretórios: 
+- `docs/`: contém a descrição das questões;
 - `exercises/`: contém as soluções dos exercícios;
-- `docs/`: contém a descrição das questões.  
+- `include/`: contém os arquivos de cabeçalho do projeto;
+- `src/`: contém a implementação das funções declaradas nos arquivos de cabeçalho. 
 
 ## Como compilar  
 
