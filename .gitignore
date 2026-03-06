@@ -4,10 +4,10 @@
 *.exe
 
 # binários
-*.bin
+bin/
 
 # diretório de build
-/build
+build/
 
 # arquivos temporários
 *.swp
@@ -16,3 +16,5 @@
 # arquivos de sistema
 .DS_Store
 
+# arquivos do VScode
+.vscode/
