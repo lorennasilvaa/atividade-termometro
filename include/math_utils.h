@@ -12,4 +12,6 @@ int fatorial(int n);
 float celsius_to_fahrenheit(float n);
 float fahrenheit_to_celsius(float n);
 
+int eh_primo(int n);
+
 #endif
