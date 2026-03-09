@@ -3,7 +3,7 @@ Repositório contendo exercícios resolvidos na linguagem C para a disciplina Li
 
 ## Estrutura do Repositório
 
-O repositório apresenta dois diretórios: 
+O repositório apresenta quatro diretórios: 
 - `docs/`: contém a descrição das questões;
 - `exercises/`: contém as soluções dos exercícios;
 - `include/`: contém os arquivos de cabeçalho do projeto;
@@ -13,14 +13,18 @@ O repositório apresenta dois diretórios:
 
 ### Exemplo usando gcc:  
 
-`gcc exercises/exercicio01.c -o exercicio01`  
+Para cada exercício, você pode utilizar o seguinte comando:
+
+`gcc -Iinclude exercises/<nome-do-exercicio>.c src/math_utils.c -o <nome-do-exercicio>`  
 
 Executar:  
 
-`./exercicio01`  
+`./<nome-do-exercicio>`  
 
 ## Requisitos 
 
 - gcc 
+
+--- 
 
 > Feito por Lorenna Mirely de Sousa Silva :D 
